@@ -1,5 +1,5 @@
 Ola, eu sou Pedro Luiz
 
 
-- 🔭 Atualmente trabalho como analista/desenvolvedor
+- 🔭 Atualmente trabalho como analise/desenvolvedor
 
