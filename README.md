@@ -1,4 +1,4 @@
-### Ola, eu sou Pedro Luiz
+### Olá, eu sou Pedro Luiz
 
 - Atualmente trabalho como analise/desenvolvedor ERP
 
