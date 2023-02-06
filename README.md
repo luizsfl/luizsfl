@@ -1,5 +1,14 @@
 ### Olá, eu sou Pedro Luiz
 
-- Atualmente trabalho como analista/desenvolvedor ERP
+Aplicativo publicado na play store: 
+<br />
+Leilão de imóveis caixa
 
-![capa_git_pedro](https://user-images.githubusercontent.com/70184804/174898758-5a905474-8802-4135-bad8-2894240ce573.PNG)
+<a href="https://play.google.com/store/apps/details?id=pedroluiz.projeto.imovis" target="_blank">
+  
+  <img src="https://user-images.githubusercontent.com/70184804/216864432-484afbbd-6755-4cab-b7c9-60cd07f5faef.png" >
+
+</a>
+
+
+
