@@ -1,6 +1,6 @@
 ### Olá, eu sou Pedro Luiz
 
-Aplicativo publicado na play store: 
+Aplicativo publicado na play store com mais de 1000 download: 
 <br />
 Leilão de imóveis caixa
 
