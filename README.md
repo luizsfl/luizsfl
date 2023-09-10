@@ -1,6 +1,20 @@
-### Olá, eu sou Pedro Luiz
+# Olá, eu sou Pedro Luiz
+### Conecte-se comigo
 
-Aplicativo publicado na play store com mais de 1000 download: 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:luizsfl@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/luiz-1ferreira/)
+
+### GitHub Stats
+<div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizsfl&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+   <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsfl&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+
+# Projeto publicado
+
+Aplicativo publicado na play store com mais de 5000 download: 
 <br />
 Leilão de imóveis caixa
 
@@ -10,8 +24,3 @@ Leilão de imóveis caixa
 
 </a>
 
-<div>
-   <a href="https://github.com/luizsfl">
-   <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=luizsfl&show_icons=tru&theme=dark&include_all_commits=tru&count_private=true"/>
-   <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsfl&layout=compact&langs_count=16&theme=dark"/>
-</div>
